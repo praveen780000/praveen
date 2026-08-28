@@ -1,6 +1,56 @@
 # 💫 About Me:
-I'm an entry-level Full-Stack Developer with hands-on experience building scalable, production-ready web applications using Python, Django REST Framework, FastAPI, and React.<br>During my internship at TATA, I designed and deployed a full-stack Food Ordering System that handled 100+ concurrent users, integrated secure session-based authentication and a payment gateway, and reduced page load times by 15% through query optimization.<br>I'm comfortable across the stack — from REST API design and database schema planning (MySQL, SQLite) to building responsive UIs and deploying on cloud platforms like PythonAnywhere and AWS.<br>Beyond professional experience, I've built projects including a real-time news aggregation app, an interactive Snake game with 100+ GitHub downloads, and a modular multi-game Python platform — all applying clean OOP and MVC principles.<br>I've solved 200+ LeetCode problems, contributed to open-source on GitHub, and hold certifications in Software Development, Cybersecurity Analysis, and Emerging Technologies from Wells Fargo, TATA, and HP.<br>I'm actively seeking a software engineering role where I can contribute to impactful products and keep growing as a developer.
+# Hi 👋 I'm Praveen
 
+### Python Backend Developer | Django | FastAPI | MySQL
+
+I'm a Computer Engineering graduate/fresher interested in
+building backend applications and REST APIs.
+
+### 🛠️ Technical Skills
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- MySQL
+- REST APIs
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+### 🚀 Projects
+
+#### Interview Management Platform
+- Built using Python, Django and MySQL
+- Implemented REST APIs
+- JWT authentication
+- Role-based access control
+- Candidate and interview management
+
+#### Expense Tracker
+- Django-based expense management application
+- User authentication
+- CRUD operations
+- MySQL database
+- Expense analytics
+
+#### Weather & News Aggregator
+- FastAPI backend
+- Integrated Weather and News APIs
+- Request filtering and caching
+
+### 📚 Currently Learning
+
+- FastAPI
+- REST API development
+- Backend system design
+- SQL optimization
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+- Email: YOUR_EMAIL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cpraveen9392) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Praveen C) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveen780000@gmail.com) 
